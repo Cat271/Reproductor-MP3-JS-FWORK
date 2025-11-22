@@ -22,9 +22,14 @@ const canciones = [
         fuente:'music/CachondosSession1Clean.mp3'
     },
     {
-        titulo:'Maximo Grado - (En Vivo Desde Basilia California 2015)',
-        nombre:'Kevin AMF',
+        titulo:'Maximo Grado - (En Vivo Desde Basilia California 2015) Parte 1',
+        nombre:'Maximo Grado',
         fuente:'music/MaximoGradoEnVivo1.mp3'
+    },
+    {
+        titulo:'Maximo Grado - (En Vivo Desde Basilia California 2015) Parte 2',
+        nombre:'Maximo Grado',
+        fuente:'music/MaximoGradoEnVivo2.mp3'
     },
 ];
 
