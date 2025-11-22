@@ -16,6 +16,11 @@ const canciones = [
         nombre:'Natanael Cano',
         fuente:'music/Giza_Clean.mp3'
     },
+    {
+        titulo:'Cachondos Session #1 (Clean)',
+        nombre:'Kevin AMF',
+        fuente:'music/CachondosSession1Clean.mp3'
+    },
 ];
 
 let indiceCancionActual = 0;
