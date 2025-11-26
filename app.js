@@ -30,6 +30,10 @@ const canciones = [
         titulo:'Maximo Grado - (En Vivo Desde Basilia California 2015) Parte 2',
         nombre:'Maximo Grado',
         fuente:'music/MaximoGradoEnVivo2.mp3'
+    },{
+        titulo:'Mix Cumbias Estilo Juarez',
+        nombre:'Dj Marti',
+        fuente:'music/CumbiasMix1.mp3'
     },
 ];
 
