@@ -17,6 +17,26 @@ const canciones = [
         fuente:'music/Giza_Clean.mp3'
     },
     {
+        titulo:'Mientras Duermes',
+        nombre:'Junior H',
+        fuente:'music/MIENTRAS_DUERMES.mp3'
+    },
+    {
+        titulo:'ME JALO (ft. Grupo Frontera)',
+        nombre:'Fuerza Regida',
+        fuente:'music/ME_JALO.mp3'
+    },
+    {
+        titulo:'Malas Rachas',
+        nombre:'Luis R Conriquez, Dareyes de la Sierra',
+        fuente:'music/MALAS_RACHAS.mp3'
+    },
+    {
+        titulo:'PLVO BLNCO',
+        nombre:'Fuerza Regida',
+        fuente:'music/PLVO_BLNCO.mp3'
+    },
+    {
         titulo:'Cachondos Session #1 (Clean)',
         nombre:'Kevin AMF',
         fuente:'music/CachondosSession1Clean.mp3'
